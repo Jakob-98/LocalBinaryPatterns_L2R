@@ -1,5 +1,5 @@
 # LocalBinaryPatterns_L2R
-Simple and inefficient Left to right local binary patterns implementation in python
+Simple and **inefficient** Left to right local binary patterns implementation in python
 
 Based on https://link.springer.com/article/10.1007/s11042-020-09698-5
 
